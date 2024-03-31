@@ -44,7 +44,7 @@ members = [
 
 [workspace.dependencies]
 serde = "1.0.188"
-specta = { git = "https://github.com/cloudcad/specta.git", features = [
+specta = { git = "https://github.com/Vahor/specta.git", features = [
   "functions",
   "tauri",
 ] }
